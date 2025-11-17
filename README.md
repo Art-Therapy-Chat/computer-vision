@@ -18,3 +18,10 @@ image data preprocessing.py — 이미지 데이터 전처리를 위한 Python �
 Python 3.8+ 권장
 주요 라이브러리(예시): numpy, pandas, opencv-python, pillow, matplotlib, scikit-image, torch/tensorflow(모델 사용 시)
 Colab 사용 권장: 별도 환경 설정 없이 notebook을 바로 실행하여 실험 가능
+
+
+<img width="857" height="590" alt="image" src="https://github.com/user-attachments/assets/1e8f0f64-8034-4716-b55b-72448f73fcc7" /> <img width="189" height="358" alt="image" src="https://github.com/user-attachments/assets/a905f6a4-3836-4bb6-8304-186ac8db524d" />
+
+<img width="317" height="467" alt="image" src="https://github.com/user-attachments/assets/50e605c3-dc2f-4b42-baa0-fe4319d4dc7f" /> <img width="205" height="361" alt="image" src="https://github.com/user-attachments/assets/c2d14cbf-9770-406a-aac6-af60b28c4f78" />
+
+
